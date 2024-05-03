@@ -1,0 +1,115 @@
+Uniform Time Charter Party for Container Vessels
+CODE NAME: "BOXTIME"
+
+PART I
+
+1. Shipbroker
+
+Maersk Broker K/S Midtermolen 1 2100 Copenhagen, Denmark Phone: +45 3344 1400 E-mail: container.apm.dk@maerskbroker.com
+^
+2. Place and date
+
+Copenhagen 9th October 2020
+^
+3. Owners/Disponent Owners & Place of Business, Telephone, Telex and Telefax Number : "AS FRANZISKA" SCHIFFFAHRTSGESELLSCHAFT MBH & CO. KG
+^
+4. Charterers & Place of Business, Telephone, Telex and Telefax Number : SEALAND EUROPE
+
+Vessel Description: MV "AS FRANZISKA"
+Basic Information:
+
+Vessel Name: MV "AS FRANZISKA"
+Call Sign/Telex Number: As per Vessel description
+GRT/NRT: As per Vessel description
+DWT on Summer Freeboard: As per Vessel description
+TEU Capacity (Maximum): As per Vessel description
+Class: As per Vessel description
+Flag: Antigua and Barbuda
+Service Speed: As per Vessel description
+Fuel Consumption: As per Vessel description
+Type(s) of Fuel(s): As per Vessel description
+Maximum Bunker Capacity: As per Vessel description
+Delivery and Redelivery:
+
+Bunkers/Price on Delivery (Min. - Max.): As per Vessel description
+Place of Delivery: Arrival first sea pilot station Damietta at any time day or night Sundays and Holidays included
+Earliest Date of Delivery: 00:01 hours local time on 25th October 2020
+Latest Date of Delivery: 23:59 hours local time on 26th October 2020
+Bunkers/Price on Redelivery (Min. - Max.): As per Vessel description
+Place of Redelivery: Dropping last outward sea pilot Algeciras or Malta or Piraeus or Port Said at any time day or night Sundays and Holidays included
+
+
+Trading Limits and Restrictions: A Breakdown of the Provided Text
+The document outlines various trading limitations and restrictions for a chartered vessel. Here's a breakdown of the key points:
+
+Geographical Restrictions:
+
+Excluded Areas: Great Lakes, St. Lawrence Seaway, Orinoco River, Cuba (with exceptions), Turkish-occupied Cyprus, Israel, Eritrea, Iraq, Iran (under UN sanctions), Sri Lanka (except Colombo), Somalia, Ethiopia, North Korea, Russian Pacific ports (except Vladivostok and Vostochny), active war zones, and countries with UN/flag state/US sanctions.
+Conditional Areas: Denmark, Norway, Sweden, Finland, Iceland, Greenland, Faroe Islands, Australia, and New Zealand are accessible only with Charterer's option and additional ITF lumpsum payment.
+China & Taiwan: Sailing between these is permitted under specific conditions (empty ballast, no discharge in China of Taiwan-loaded containers, or discharge only of third-country containers). Obtaining relevant permits is the Charterer's responsibility.
+Arabian Restrictions & Israel:
+
+Calling at Israeli ports prohibits subsequent calls at Arabian ports (except Egypt, if trade allowed) unless the vessel is proven not to be on the Arab Boycott List.
+Charterers bear the cost of removing the vessel from the Arab Boycott List if blacklisted due to Israel visits.
+Piracy & Security:
+
+The vessel must follow Charterer's instructions and recommended routes in the Indian Ocean high-risk piracy area, while respecting flag state/P&I recommendations and the Master's judgment for safety maneuvers.
+Charterers cover the cost of armed guards (if deemed necessary by Owners and approved by Charterers), additional war risk insurance, K&R insurance, safety measures, and crew war bonus.
+Charterers can take out extra war risk insurance on behalf of Owners and have a facility to cover such insurance for chartered vessels.
+Additional Responsibilities:
+
+Charterers are responsible for obtaining all necessary trading permits and approvals.
+Charterers must confirm no calls to Israeli ports two weeks before redelivery.
+Overall, the document highlights the complex considerations involved in chartering a vessel, with limitations based on geopolitical situations, security risks, and specific trade requirements.
+^
+Charter Vessel: Owner's Agreement Extracts
+23. Period of Charter and Options if any (Cl. 1 (a), Cl. 6 (m) and Cl. 7 (f))
+
+Minimum 4 months/ maximum 7 Months. Exact period in Charterers option.
+^
+24. State number of Days Options have to be declared after commencement of Charter Period (Cl. 1 (a))
+
+Image does not provide this information
+^
+25. Rate of Hire per Day and to whom payable (Cl. 1 (a), Cl. 7 (a) and (b)
+
+USD 6,450 (Six Thousand Four Hundred Fifty United States Dollars) per day pro rata including overtime
+^
+26. Quantity of Hazardous Goods allowed (Cl. 4 (b))
+
+In accordance with vessel's Certificate of Compliance for the carriage of dangerous goods
+^
+27. Insured Value of Vessel (Cl. 18 (a))
+
+H + M values: USD 5,280,264.00
+
+Total Loss Value: USD 2,639,736.00
+^
+28. Daily Rate for Supercargo (Cl. 13 (h))
+
+As per Clause 33
+
+29. Victualling Rate per Meal for other Charterers' Servants etc. (Cl. 13 (j))
+
+As per Clause 33
+
+
+Charter Party Details:
+30. Name of Owners' P & I Club (Cl. 18 (b)) UK P+I Club
+^
+31. Name of Charterers' P & I Club (Cl. 18 (b)) Gard A/S
+
+32. Charterers' maximum Claim settlement authority (Cl. 16 (h)) USD 3,000/- per claim
+^
+33. General Average to be adjusted at (Cl. 14 (c)) London, English Law to apply
+
+34. Law and Arbitration (state a, b, or c of Cl. 20, as agreed; if c agreed also state Place of Arbitration) (Cl. 20) London, English Law to apply
+^
+35. Brokerage Commission and to whom payable (Cl. 21) 3.75 percent Address Commission + 1.25 percent to Maersk Broker K/S payable by Owners, and Charterers deduct from the charter hire on behalf of Maersk Broker k/S + 1.25 percent Harper Petersen payable by Owners.
+
+36. Number of Additional Clauses covering special Provisions Clauses nos. 23-81
+
+
+
+
+
